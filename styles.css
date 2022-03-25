@@ -1,0 +1,43 @@
+h1 {
+    font-family: cursive;
+    font-size: 42px;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 35px;
+}
+
+h3 {
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+    font-size: 20px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.recipe {
+    color: aqua;
+}
+
+.list {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    background-color: indigo;
+    color: darkorange;
+    font-weight: 900;
+}
+
+ol {
+    font-family: Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+ol ul {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}

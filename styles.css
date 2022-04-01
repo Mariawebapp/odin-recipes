@@ -1,3 +1,15 @@
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+
+* {
+    border: 5px solid red;
+}
+
 h1 {
     font-family: cursive;
     font-size: 42px;
@@ -28,6 +40,18 @@ p {
     background-color: indigo;
     color: darkorange;
     font-weight: 900;
+    width: 700px;
+    height: 100px;
+    padding-top: 50px;
+    padding-right: 60px;
+    padding-bottom: 200px;
+    padding-left: 60px;
+    margin-bottom: 60px;
+
+}
+
+.list.box {
+    padding-bottom: 300px;
 }
 
 ol {
